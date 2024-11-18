@@ -34,7 +34,7 @@ export default function BodyHome() {
   };
   return (
     <div className="overflow-hidden">
-
+<h1>This is random text just to assure that git to upload the data successfully</h1>
      <div className="hidden md:block "> <Header/></div>
      <div className="block md:hidden"><Headersm/></div>
       <div  className="bg-slate-100  border-t-2 border-gray-200">
